@@ -1,5 +1,5 @@
 # TicTacToeCPP
-Basic game of Tic Tac Toe made in C++. 
+- Basic game of Tic Tac Toe made in C++. 
 
 I am a beginner and this is one of the first larger projects I have done. With this project I wanted to do my best to not use any tutorials or external help other than maybe searching for correct syntax. 
 
